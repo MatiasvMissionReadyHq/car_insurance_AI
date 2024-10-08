@@ -22,7 +22,8 @@ To run the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-  https://github.com/MatiasvMissionReadyHq/car_insurance_AI.git
+      git clone https://github.com/yourusername/car_insurance_AI.git](https://github.com/MatiasvMissionReadyHq/car_insurance_AI.git
+  
 Navigate to the Project Directory:
 
 bash
